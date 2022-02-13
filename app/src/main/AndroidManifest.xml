@@ -20,7 +20,6 @@
             <intent-filter>
                 <action android:name="toCalc" />
 
-                <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.APP_CALCULATOR" />
 
             </intent-filter>
